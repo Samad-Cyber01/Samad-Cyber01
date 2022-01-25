@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Samad-Cyber01
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning CPP
+- 💞️ I’m looking to collaborate on CPP projects
+- 📫 How to reach me samadstanikzai1@gmail.com
